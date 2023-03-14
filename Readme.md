@@ -5,7 +5,7 @@
 - By the time releasing, The 100 is at the 26th rank of the [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391) of the fastest printers in the world and it's the fastest one that uses a 3d printed frame.
 - And the best thing, this printer **100% open source**. Which means if you like this printer and you  like to build one by own, you find all resources needed to do this in this repository
 
-![img](https://raw.githubusercontent.com/MSzturc/the100/main/Build_Photos/The%20100%20Avatar.png?token=GHSAT0AAAAAABSYEFHJEBMPI3WV4TVEK3XMZAQMAHA)
+![img](./Build_Photos/The%20100%20Avatar.png)
 
 ## Features
 
