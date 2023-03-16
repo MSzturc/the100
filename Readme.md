@@ -31,6 +31,7 @@
 
 ## Print Settings
 
+To print the STL files, a 3D printer with a print bed of at least 230x230mm is required.
 I've printed all parts out of PLA. If you plan to print ABS/ASA on the printer i would suggest to print the print bed out of a more temprature resistant material.
 
 For all STL Parts **exept the print bed** i've used the following settings:
