@@ -31,7 +31,9 @@
 
 ## Print Settings
 
-For all STL Parts **exept the print bed**:
+I've printed all parts out of PLA. If you plan to print ABS/ASA on the printer i would suggest to print the print bed out of a more temprature resistant material.
+
+For all STL Parts **exept the print bed** i've used the following settings:
 
 - 0.25 Layer height
 - 0.5 Line width
