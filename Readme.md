@@ -28,3 +28,20 @@
 
 ## Overview
 - [BOM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnT7lUAm9BKLHol7-dNHnF4nKvP-lOSMpftKGOlcxHHbdXwKRsRJdUcNPCFPCzIqwu5tC8nzX3WME4/pubhtml?gid=0&single=true)
+
+## Print Settings
+
+For all STL Parts **exept the print bed**:
+
+- 0.25 Layer height
+- 0.5 Line width
+- 3 Top layers
+- 3 Bottom layers
+- 3 Walls
+- 25% Infill
+- Grid Infill Pattern
+
+**For the print bed:**
+- 30% Infill
+
+The infill of the print bed needs to be slightly higher to move the center of gravity to where the lead screws are attached. This is needed to stop binding on the Z-Axis.
