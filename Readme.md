@@ -27,7 +27,7 @@
 - up to 110°C
 
 ## Overview
-- [BOM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnT7lUAm9BKLHol7-dNHnF4nKvP-lOSMpftKGOlcxHHbdXwKRsRJdUcNPCFPCzIqwu5tC8nzX3WME4/pubhtml?gid=0&single=true)
+- [BOM](https://docs.google.com/spreadsheets/d/1qVG3n-1HVcA7c-vKpUakU7fWirMONmqOiJRv8SHPkTo/edit?usp=sharing)
 
 ## Print Settings
 
