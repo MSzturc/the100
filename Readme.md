@@ -52,3 +52,4 @@ The infill of the print bed needs to be slightly higher to move the center of gr
 ## Links
 - [Join our Discord Server](https://discord.gg/CYjF9Anj)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
+- [The 100 at Printables](https://www.printables.com/model/430339-the-100)
