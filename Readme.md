@@ -49,5 +49,6 @@ For all STL Parts **exept the print bed** i've used the following settings:
 
 The infill of the print bed needs to be slightly higher to move the center of gravity to where the lead screws are attached. This is needed to stop binding on the Z-Axis.
 
-## Community
+## Links
 - [Join our Discord Server](https://discord.gg/CYjF9Anj)
+- [Support this Project on Patreon](https://www.patreon.com/The100)
