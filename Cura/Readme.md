@@ -6,6 +6,10 @@
 
 ![](PrinterSettings.png)
 
+Use as start GCODE:
+
+> START_PRINT BED={material_bed_temperature_layer_0} HOTEND={material_print_temperature_layer_0}
+
 3. and following Extruder Settings:
 
 ![](ExtruderSettings.png)
