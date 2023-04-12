@@ -12,7 +12,7 @@
 
 </p>
 
-# This is THE 100, the fastest 3D Printer based on a printed frame.
+# THE 100, the fastest 3D Printer based on a printed frame.
 
 - It does Speedboat in less than 6 minutes and is capable of doing high quality prints in **1/10th** of the time a Ender 3 would need.
 - By the time releasing, The 100 is at the 26th rank of the [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391) of the fastest printers in the world and it's the fastest one that uses a 3d printed frame.
