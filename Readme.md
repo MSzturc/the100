@@ -1,33 +1,31 @@
-# The 100 V1.0 Release
+<p>
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/MSzturc/the100/main/Build_Photos/Top%20Banner%20Claim%20v2.png">
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/MSzturc/the100/main/Build_Photos/THE-100.gif">
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/MSzturc/the100/main/Build_Photos/Middle%20Banner%20Claim.png">
+
+<a href="https://www.youtube.com/watch?v=oDKtKg4UfsU" > 
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/MSzturc/the100/main/Build_Photos/YoutubeThumb.png">
+</a>
+
+</p>
+
+# This is THE 100, the fastest 3D Printer based on a printed frame.
 
 - It does Speedboat in less than 6 minutes and is capable of doing high quality prints in **1/10th** of the time a Ender 3 would need.
 - By the time releasing, The 100 is at the 26th rank of the [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391) of the fastest printers in the world and it's the fastest one that uses a 3d printed frame.
 - And the best thing, this printer **100% open source**. Which means if you like this printer and you  like to build one by own, you find all resources needed to do this in this repository
 
-![img](./Build_Photos/The%20100%20Avatar.png)
 
-
-## Introduction
-
-[![THE 100](https://img.youtube.com/vi/oDKtKg4UfsU/0.jpg)](https://www.youtube.com/watch?v=oDKtKg4UfsU)
-
-## Features
-
-### CoreXY Linear Rod Motion System
-- 400 mm/s velocity
-- 100k mm/s2 acceleration
-
-### CHC Volcano Hotend
-- 115W ceramic heater
-- 300°C max
-- 43mm3 volumetric flow
-
-### Heated Printbed
-- 165x165mm Printbed
-- up to 110°C
-
-## Overview
-- [BOM](https://docs.google.com/spreadsheets/d/1qVG3n-1HVcA7c-vKpUakU7fWirMONmqOiJRv8SHPkTo/edit?usp=sharing)
+## Links
+- [Bill of Material](https://docs.google.com/spreadsheets/d/1qVG3n-1HVcA7c-vKpUakU7fWirMONmqOiJRv8SHPkTo/edit?usp=sharing)
+- [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
+- [Support this Project on Patreon](https://www.patreon.com/The100)
+- [Grad the CAD files](https://www.printables.com/model/430339-the-100-the-fastest-3d-printer-based-on-a-printed-)
+- [View the Assembly Guide](https://www.youtube.com/playlist?list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W)
+- [Follow the Development](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer)
 
 ## Print Settings
 
@@ -49,7 +47,23 @@ For all STL Parts **exept the print bed** i've used the following settings:
 
 The infill of the print bed needs to be slightly higher to move the center of gravity to where the lead screws are attached. This is needed to stop binding on the Z-Axis.
 
-## Links
-- [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
-- [Support this Project on Patreon](https://www.patreon.com/The100)
-- [The 100 at Printables](https://www.printables.com/model/430339-the-100)
+## Specifications
+
+- Printing Technology: FDM
+- Build Volume: 165x165x150mm
+- Maximum Printing Speed: 400mm/s
+- Maximum Acceleration: 100.000mm/s²
+- Layer Height: 0.1-0.35mm
+- Extruder: BMG Bowden Extruder
+- Filament Diameter: 1.75mm
+- Nozzle Diameter: 0.4 (swappable)
+- Maximum Nozzle Temperature: 300°C
+- Maximum Heatbed Temperature: 110°C
+- Leveling Mode: manual
+- File Transfer: USB Drive, WIFI
+- Rated Power: 350W
+- Supported Filaments: PLA, PETG
+
+## Builds by the Community
+
+![img](./Build_Photos/The%20100%20Avatar.png)
