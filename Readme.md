@@ -26,6 +26,7 @@
 - [Grad the CAD files](https://www.printables.com/model/430339-the-100-the-fastest-3d-printer-based-on-a-printed-)
 - [View the Assembly Guide](https://www.youtube.com/playlist?list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W)
 - [Follow the Development](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer)
+- [Printers build by the Community](https://www.youtube.com/playlist?list=PLM01o_dfwbDfZ-m0T0c431_AJRJ2Jxip3)
 
 ## Print Settings
 
