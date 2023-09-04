@@ -20,7 +20,7 @@
 
 
 ## Links
-- [Bill of Material](https://docs.google.com/spreadsheets/d/1qVG3n-1HVcA7c-vKpUakU7fWirMONmqOiJRv8SHPkTo/edit?usp=sharing)
+- [Bill of Material](https://docs.google.com/spreadsheets/d/1e5dhm4ck-dtci_GDkMuuwxgp788YJ5hdL6JvRKvF1Zc/edit?usp=sharing)
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
 - [Grad the CAD files](https://www.printables.com/model/430339-the-100-the-fastest-3d-printer-based-on-a-printed-)
