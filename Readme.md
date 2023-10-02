@@ -23,7 +23,7 @@
 - [Bill of Material](https://docs.google.com/spreadsheets/d/1e5dhm4ck-dtci_GDkMuuwxgp788YJ5hdL6JvRKvF1Zc/edit?usp=sharing)
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
-- [Grad the CAD files](https://www.printables.com/model/572689-the-100-the-fastest-3d-printer-based-on-a-printed-)
+- [Grab the CAD files](https://www.printables.com/model/572689-the-100-the-fastest-3d-printer-based-on-a-printed-)
 - [View the Assembly Guide](https://www.youtube.com/playlist?list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W)
 - [Follow the Development](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer)
 - [Our Community on Facebook](https://www.facebook.com/groups/181335024786568)
